@@ -1,4 +1,4 @@
-# Curcumin-Binding-Affinity
+# Curcumin behavior pattern for affinity Binding
 Date created/updated: December, 9, 2024. Collaboration with Dr. George Tegos, Tower Heath, Philadelphia, Pennsylvania, USA. 
 [R: GEOquery, Biobase, preprocessCore, multiClust, ctc, gplots, dendextend, graphics, grDevices, amap].
 Claflin University, Orangeburg, South Carolina, United States of America (USA). 
