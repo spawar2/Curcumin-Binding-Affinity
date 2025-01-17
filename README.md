@@ -1,5 +1,5 @@
 # Curcumin-Binding-Affinity
-Date created/updated: December, 9, 2024.
+Date created/updated: December, 9, 2024. Collaboration with Dr. George Tegos, Tower Heath, Philadelphia, Pennsylvania, USA. 
 [R: GEOquery, Biobase, preprocessCore, multiClust, ctc, gplots, dendextend, graphics, grDevices, amap].
 Claflin University, Orangeburg, South Carolina, United States of America (USA). 
 https://www.claflin.edu/
